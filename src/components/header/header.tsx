@@ -1,7 +1,7 @@
 import { AppBar, Button, Divider, Toolbar,  Typography } from "@mui/material";
 import iconMenu from "../../assets/img/icon_menu.svg";
 import iconPrev from "../../assets/img/icon_prev.svg";
-import "./Header.scss";
+import "../../components/header/header.scss";
 
 export default function Header() {
     return (
