@@ -1,0 +1,28 @@
+.drawer {
+    width: 240px;
+    flex-shrink: 0;
+  
+    & .MuiDrawer-paper {
+      width: 240px;
+      box-sizing: border-box;
+      background-color: #27272A; 
+    }
+  }
+  
+.drawer-box {
+    overflow: auto;
+}
+.subheader-text {
+    display: block;
+    line-height: 1.2; 
+}
+.project-name {
+    font-size: 14px; 
+}
+.abbreviation {
+    font-size: 10px;   
+}
+.arrow-icon {
+    margin-left: auto; 
+}
+  
